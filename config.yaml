@@ -50,8 +50,8 @@ products:
 location:
   postal_code: "65549"
   city: "Limburg"
-  latitude: 48.9543
-  longitude: 9.1316
+  latitude: 50.3978332
+  longitude: 8.0765593
   radius_km: 150  # Umkreis für Filial-Verfügbarkeit
 
 # Quellen ein-/ausschalten. Schlüssel entsprechen den Adapter-Namen.
