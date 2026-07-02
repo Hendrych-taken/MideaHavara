@@ -20,14 +20,14 @@
 # Bedarf verfeinern. Alle vier MediaMärkte liegen < 25 km (ca. 6–21 km).
 
 mediamarkt:
-  - id: "450"         # mediamarkt.de/de/store/ludwigsburg-450  (~6 km)
-    name: "Ludwigsburg"
-    lat: 48.9080
-    lon: 9.1720
-  - id: "402"         # …/store/stuttgart-feuerbach-402  (~16 km)
-    name: "Stuttgart-Feuerbach"
-    lat: 48.8090
-    lon: 9.1570
+  - id: "571"         # mediamarkt.de/de/store/ludwigsburg-450  (~6 km)
+    name: "Limburg"
+    lat: 50.3978
+    lon: 8.0765
+  - id: "465"         # …/store/stuttgart-feuerbach-402  (~16 km)
+    name: "Koblenz"
+    lat: 50.3876
+    lon: 7.5545
   - id: "31"          # …/store/leonberg-31  (~19 km)
     name: "Leonberg"
     lat: 48.8010
